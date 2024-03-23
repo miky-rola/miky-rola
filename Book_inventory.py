@@ -92,7 +92,6 @@ class BookInventory:
                 continue
 
     # Method to delete a book from the inventory
-    # Method to delete a book from the inventory
     def delete_book(self):
         title = input("Enter the title of the book you want to delete: ").strip().title()
         if title in self.books:
