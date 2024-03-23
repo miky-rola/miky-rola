@@ -24,8 +24,6 @@ class BookInventory:
             for book_info in self.books.values():
                 writer.writerow({"Title": book_info["title"], "Author": book_info["author"]})
 
-
-
     # Method to list all books in the inventory
     def list_books(self):
         if self.books:
@@ -56,7 +54,6 @@ class BookInventory:
             else:
                 print("Title cannot be blank")
                 continue
-
 
     # Method to update information of an existing book
     def update_book(self):
