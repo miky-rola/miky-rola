@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @miky-rola
-- 👀 I’m interested in learning everything python and R
+- 👀 I’m interested in learning everything python and anything interesting
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any python and R project
 - 📫 How to reach me on email mikyrola8@gmail.com
