@@ -25,6 +25,6 @@ Software Engineer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/miky-rola"><img src="https://github-readme-stats.vercel.app/api?username=miky-rola&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0f172a&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="miky-rola's GitHub stats" /></a>
+<a href="http://www.github.com/miky-rola"><img src="https://github-readme-stats.vercel.app/api?username=miky-rola&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=22c55e&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="miky-rola's GitHub stats" /></a>
 
-<a href="http://www.github.com/miky-rola"><img src="https://github-readme-streak-stats.herokuapp.com/?user=miky-rola&stroke=0f172a&background=000000&ring=0891b2&fire=0891b2&currStreakNum=0f172a&currStreakLabel=0891b2&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
+<a href="http://www.github.com/miky-rola"><img src="https://github-readme-streak-stats.herokuapp.com/?user=miky-rola&stroke=22c55e&background=000000&ring=0891b2&fire=0891b2&currStreakNum=22c55e&currStreakLabel=0891b2&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
