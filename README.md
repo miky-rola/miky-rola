@@ -25,8 +25,6 @@ Software Engineer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/miky-rola"><img src="https://github-readme-stats.vercel.app/api?username=miky-rola&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="miky-rola's GitHub stats" /></a>
+<a href="http://www.github.com/miky-rola"><img src="https://github-readme-stats.vercel.app/api?username=miky-rola&show_icons=true&hide=&count_private=true&title_color=000000&text_color=84cc16&icon_color=22c55e&bg_color=7f1d1d&hide_border=true&show_icons=true" alt="miky-rola's GitHub stats" /></a>
 
-<a href="http://www.github.com/miky-rola"><img src="https://github-readme-streak-stats.herokuapp.com/?user=miky-rola&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/miky-rola"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=miky-rola&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/miky-rola"><img src="https://github-readme-streak-stats.herokuapp.com/?user=miky-rola&stroke=84cc16&background=7f1d1d&ring=000000&fire=000000&currStreakNum=84cc16&currStreakLabel=000000&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
