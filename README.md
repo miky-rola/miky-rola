@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [mikyrola8@gmail.com](mailto:mikyrola8@gmail.com)
-* 🤝  I'm open to collaborating on I'm open to collaborating on Interesting projects
+* 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I'm a superhero but won't mention the name so I can maintain my identity
 
 ### Skills
