@@ -27,7 +27,9 @@ Software Engineer
 
 <a href="http://www.github.com/miky-rola"><img src="https://github-readme-stats.vercel.app/api?username=miky-rola&show_icons=true&hide=&count_private=true&title_color=000000&text_color=84cc16&icon_color=22c55e&bg_color=7f1d1d&hide_border=true&show_icons=true" alt="miky-rola's GitHub stats" /></a>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miky-rola&stroke=84cc16&background=7f1d1d&ring=000000&fire=000000&currStreakNum=84cc16&currStreakLabel=000000&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" />
+<p align="center">
+  <a href="http://www.github.com/miky-rola">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miky-rola&stroke=84cc16&background=7f1d1d&ring=000000&fire=000000&currStreakNum=84cc16&currStreakLabel=000000&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
 </p>
 
